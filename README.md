@@ -1,4 +1,4 @@
-# coursera-rprog-assignment2
+# RProgrammingAssignment2
 ### Introduction
 
 This second programming assignment will require you to write an R
